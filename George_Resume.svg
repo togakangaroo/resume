@@ -41,8 +41,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-109.94714"
-     inkscape:cy="619.5"
+     inkscape:cx="644.88138"
+     inkscape:cy="481.01219"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -549,5 +549,16 @@
          id="tspan3652"
          x="67"
          y="711.36218" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="706.52051"
+       y="1044.7256"
+       id="text4190"><tspan
+         sodipodi:role="line"
+         id="tspan4192"
+         x="706.52051"
+         y="1044.7256"
+         style="font-size:8px">v 8.5</tspan></text>
   </g>
 </svg>
