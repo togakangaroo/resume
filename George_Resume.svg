@@ -41,15 +41,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="447.99998"
-     inkscape:cy="475.09935"
+     inkscape:cx="370.5"
+     inkscape:cy="630.5"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1024"
-     inkscape:window-height="1209"
-     inkscape:window-x="1596"
+     inkscape:window-width="1600"
+     inkscape:window-height="1181"
+     inkscape:window-x="-4"
      inkscape:window-y="-4"
      gridanglex="0.33333333in"
      gridanglez="0.33333333in"
@@ -67,10 +67,6 @@
        orientation="vertical"
        position="143.6581"
        id="guide23016" />
-    <sodipodi:guide
-       orientation="vertical"
-       position="44.971367"
-       id="guide23074" />
     <sodipodi:guide
        orientation="vertical"
        position="130.49917"
@@ -106,6 +102,22 @@
        units="in"
        visible="true"
        enabled="true" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="388,22"
+       id="guide2537" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="560,380"
+       id="guide2539" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="460,252"
+       id="guide3485" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="44.551396,417.53982"
+       id="guide3487" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -123,19 +135,18 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g2701"
-       transform="translate(-5.0475739,-5)">
+       id="g3384">
       <rect
          ry="10"
-         rx="10.077801"
-         y="43.221821"
-         x="45.526146"
+         rx="10.160197"
+         y="38.221821"
+         x="35.916557"
          height="154.30893"
-         width="553.47388"
+         width="557.99908"
          id="rect2162"
          style="fill:#e1e1e1;fill-opacity:1;stroke:#a37575;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
-         transform="matrix(0.9817214,0,0,0.9227636,-5.8536579,-9.6656612)"
+         transform="matrix(0.989748,0,0,0.9227636,-15.883327,-14.665661)"
          id="flowRoot3149"
          xml:space="preserve"><flowRegion
            id="flowRegion3151"><rect
@@ -146,7 +157,7 @@
              id="rect3153" /></flowRegion><flowPara
            style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Georgia;-inkscape-font-specification:Georgia"
            id="flowPara3155">George Mauer</flowPara></flowRoot>      <flowRoot
-         transform="matrix(0.9316347,0,0,1.0297386,-231.09958,-46.627191)"
+         transform="matrix(0.9392517,0,0,1.0297386,-242.97086,-51.627191)"
          id="flowRoot3169"
          xml:space="preserve"><flowRegion
            id="flowRegion3171"><rect
@@ -158,21 +169,10 @@
            id="flowPara3177"
            style="font-size:22px">My career objective is to continue on the long </flowPara><flowPara
            id="flowPara26636"
-           style="font-size:22px">path of becoming a software development super-star</flowPara></flowRoot>      <text
-         id="text22870"
-         y="228.96667"
-         x="92.081825"
-         style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           style="font-size:18px;text-align:center;text-anchor:middle"
-           y="228.96667"
-           x="92.081825"
-           id="tspan22872"
-           sodipodi:role="line">Skills</tspan></text>
-    </g>
+           style="font-size:22px">path of becoming a software development super-star</flowPara></flowRoot>    </g>
     <g
        id="g2605"
-       transform="translate(0.58872,645.49516)">
+       transform="translate(5.9904e-2,752.49516)">
       <path
          sodipodi:nodetypes="ccccccccccccc"
          id="rect17044"
@@ -220,95 +220,27 @@
            id="flowPara23012">Tulane University</flowPara><flowPara
            style="font-size:10px;font-style:italic;font-weight:normal"
            id="flowPara23014">New Orleans, LA</flowPara></flowRoot>    </g>
-    <path
-       style="fill:#e1e1e1;fill-opacity:1;stroke:#a37575;stroke-width:8.93846893;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 40.219854,331.76968 C 40.219854,327.33141 40.219854,327.33141 44.69884,327.33141 L 134.72776,327.33141 C 139.229,327.33141 139.229,327.33141 139.04519,331.98609 L 139.13647,345.08449 C 139.13647,349.52276 139.07186,349.52276 143.63689,349.52276 L 701.68845,349.52276 C 706.18887,349.52276 706.18887,349.52276 706.18887,353.96103 L 701.78098,677.95468 C 701.78098,682.39295 701.78098,682.39295 697.28056,682.39295 L 44.72027,682.39295 C 40.162914,682.39295 40.219854,682.39295 40.219854,677.95468 C 40.219854,601.1533 40.219854,336.20795 40.219854,331.76968 z"
-       id="path23138"
-       sodipodi:nodetypes="ccccccccccccc" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot23146"
-       transform="translate(2.4168891,-44.941058)"><flowRegion
-         id="flowRegion23148"><rect
-           id="rect23150"
-           width="638.86334"
-           height="398.55582"
-           x="47.141396"
-           y="403.81085" /></flowRegion><flowPara
-         style="font-size:10px;font-family:Verdana"
-         id="flowPara23160"><flowSpan
-   style="font-size:10px;font-weight:bold"
-   id="flowSpan23265">Lead Software Developer / Systems Architect</flowSpan> (August 2007 – Present)</flowPara><flowPara
-         id="flowPara23218"
-         style="font-size:10px;font-style:italic;font-family:Verdana">Westway Holdings (www.westway.com), New Orleans LA</flowPara><flowPara
-         id="flowPara23220"
-         style="font-size:10px;font-family:Verdana">Designed and developed applications in ASP.NET and WinForms for a large multinational corporation.  Refactored legacy code to be more compliant with principles of loose-coupling and separation of concerns.  Built relationships with and managed an outsourced team using concepts adopted from Agile.  Instituted previously lacking source control, issue tracking, and test driven development policies.  Software development duties spanned all stages of the software lifecycle: gathering of requirements, discussions with domain experts, system architecture, iteration planning, managment of developers, implementation, testing, quality assurance, administration, and the gathering and assessment of feedback.  Duties also included database administration, dealing with clients, and management of a single intern.  </flowPara><flowPara
-         style="font-size:10px;font-family:Verdana"
-         id="flowPara23267" /><flowPara
-         style="font-size:10px;font-family:Verdana"
-         id="flowPara23269"><flowSpan
-   style="font-size:10px;font-weight:bold"
-   id="flowSpan23271">Freelance Web Developer</flowSpan> (January 2007 – Present)</flowPara><flowPara
-         style="font-size:10px;font-family:Verdana"
-         id="flowPara23273">Consulted customers on requirements and system design.  Built software on PHP/MySQL and .NET/SQL Server platforms.  Was instrumental in the timely launch of an Account Planning Facilitator used by 17,000 sales-people worldwide.  Created a CRM used by http://armante.com/. </flowPara><flowPara
-         style="font-size:10px;font-family:Verdana"
-         id="flowPara23275" /><flowPara
-         style="font-size:10px;font-family:Verdana"
-         id="flowPara23277"><flowSpan
-   style="font-size:10px;font-weight:bold"
-   id="flowSpan23279">Web Application Developer </flowSpan>(January 2006 – May 2007)</flowPara><flowPara
-         style="font-size:10px;font-style:italic;font-family:Verdana"
-         id="flowPara23281">Mudbug Media (www.mudbugmedia.com), New Orleans LA</flowPara><flowPara
-         style="font-size:10px;font-family:Verdana"
-         id="flowPara23295">Developed web applications through a daily use of PHP and ASP.  This was typically integrated with Oracle or MySQL.  Responsibilities included full-blown site and database design, documentation, and some light graphic design.  Projects were typically done solo or in small teams and ranged the full software development lifecycle. </flowPara><flowPara
-         style="font-size:7.75px;font-family:Verdana"
-         id="flowPara23289" /><flowPara
-         style="font-size:10px;font-family:Verdana"
-         id="flowPara26262"><flowSpan
-   style="font-size:10px;font-weight:bold"
-   id="flowSpan26264">Research Assistant in Image Processing and Analysis</flowSpan> (September 04 – September 05)</flowPara><flowPara
-         style="font-size:10px;font-style:italic;font-family:Verdana"
-         id="flowPara23291">Advanced Missile Defense Research Group, Tulane University</flowPara><flowPara
-         style="font-size:10px;font-family:Verdana"
-         id="flowPara23293">Contributed to all phases of a project for the automation of land surveying through the use of LIDAR (Laser Imaging Detection and Ranging) and other publicly available data.</flowPara><flowPara
-         id="flowPara23222"
-         style="font-size:10px;font-family:Verdana" /><flowPara
-         id="flowPara23224"
-         style="font-size:10px;font-family:Verdana" /><flowPara
-         id="flowPara23226"
-         style="font-size:10px;font-family:Verdana" /><flowPara
-         id="flowPara23228"
-         style="font-size:10px;font-family:Verdana" /><flowPara
-         id="flowPara23230"
-         style="font-size:1px;font-family:Verdana" /><flowPara
-         id="flowPara23232"
-         style="font-size:1px;font-family:Verdana" /><flowPara
-         id="flowPara23234"
-         style="font-size:1px;font-family:Verdana" /><flowPara
-         id="flowPara23236"
-         style="font-size:1px;font-family:Verdana" /><flowPara
-         id="flowPara23238"
-         style="font-size:1px;font-family:Verdana" /></flowRoot>    <g
-       id="g2571"
-       transform="translate(4.1581,-76.499997)">
+    <g
+       id="g3607"
+       transform="translate(0,8)">
       <path
          sodipodi:nodetypes="ccccccccccccc"
          id="path26266"
-         d="M 36,777.86218 C 36,773.36218 36,773.36218 40.478572,773.36218 L 130.37359,773.45653 C 134.88662,773.45653 134.86537,773.47778 134.86537,777.9305 L 134.77955,786.94505 C 134.77955,791.35395 134.75912,791.45859 139.35493,791.45859 L 697.36655,791.43703 C 701.9713,791.43703 701.90748,791.51489 701.90748,795.92711 L 702,917.36218 C 702,921.86218 702,921.86218 697.5,921.86218 L 40.5,921.86218 C 35.91192,921.86218 36,921.86218 36,917.36218 C 36,917.36218 36,782.36218 36,777.86218 z"
+         d="M 36.47947,810.90357 C 36.47947,806.7082 36.47947,806.7082 40.960113,806.7082 L 130.8967,806.79616 C 135.41182,806.79616 135.39056,806.81597 135.39056,810.96726 L 135.3047,819.37157 C 135.3047,823.482 135.28426,823.57956 139.88219,823.57956 L 698.15184,823.55946 C 702.75872,823.55946 702.69487,823.63205 702.69487,827.74558 L 702.78743,940.96 C 702.78743,945.15537 702.78743,945.15537 698.28535,945.15537 L 40.981551,945.15537 C 36.391349,945.15537 36.47947,945.15537 36.47947,940.96 C 36.47947,940.96 36.47947,815.09894 36.47947,810.90357 z"
          style="fill:#e1e1e1;fill-opacity:1;stroke:#a37575;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          id="text26268"
-         y="793.71735"
-         x="84.08139"
+         y="827.21735"
+         x="84.714844"
          style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
          xml:space="preserve"><tspan
            style="font-size:18px;text-align:center;text-anchor:middle"
-           y="793.71735"
-           x="84.08139"
+           y="827.21735"
+           x="84.714844"
            id="tspan26270"
            sodipodi:role="line">Projects</tspan></text>
       <flowRoot
-         transform="translate(-2.4489617,397.14296)"
+         transform="translate(-1.8155117,430.64296)"
          id="flowRoot26274"
          xml:space="preserve"><flowRegion
            id="flowRegion26276"><rect
@@ -324,7 +256,7 @@
            id="flowPara26304"
            style="font-size:10px;font-family:Verdana">Co-founded Resultsoft LLC and authored a Small Business Innovation Research (SBIR) Grant proposal to the Institute of Education Sciences (IES) for Project WorldPlay.  This would be an educational videogame capable of using specific modern game-design concepts capable of rousing student interest in mathematics to an unprecedented level.</flowPara><flowPara
            id="flowPara26306"
-           style="font-size:7.75px;font-family:Verdana" /><flowPara
+           style="font-size:4px;font-family:Verdana">  </flowPara><flowPara
            id="flowPara26314"
            style="font-size:10px;font-weight:bold;font-family:Verdana">Thesis:  SEGWORK - A Matlab Framework for Image Segmentation <flowSpan
    id="flowSpan26396"
@@ -351,36 +283,6 @@
            id="flowPara26330" /><flowPara
            style="font-size:1px;font-family:Verdana"
            id="flowPara26332" /></flowRoot>    </g>
-    <g
-       id="g2534">
-      <path
-         sodipodi:nodetypes="ccccccccccccc"
-         id="path26400"
-         d="M 36.7212,940.1552 C 36.653168,934.10423 36.601006,934.26758 41.111115,934.08357 L 130.98269,934.21088 C 135.48594,934.21088 135.46475,934.23956 135.46475,940.24738 L 135.37911,952.41021 C 135.37911,958.3589 135.35871,958.50008 139.94459,958.50008 L 696.74752,958.47099 C 701.34228,958.47099 701.27861,958.57604 701.27861,964.52921 L 701.18627,1019.0209 C 701.18627,1025.0925 701.18627,1025.0925 696.69602,1025.0925 L 41.119134,1025.0925 C 36.540991,1025.0925 36.628881,1025.0925 36.628881,1019.0209 C 36.628881,1019.0209 36.773363,946.06345 36.7212,940.1552 z"
-         style="fill:#e1e1e1;fill-opacity:1;stroke:#a37575;stroke-width:10.44280243;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text26402"
-         y="955.26569"
-         x="84.17392"
-         style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           style="font-size:18px;text-align:center;text-anchor:middle"
-           y="955.26569"
-           x="84.17392"
-           id="tspan26404"
-           sodipodi:role="line">Activities</tspan></text>
-      <flowRoot
-         transform="translate(-2.3564461,562.69128)"
-         id="flowRoot26406"
-         xml:space="preserve"><flowRegion
-           id="flowRegion26408"><rect
-             y="403.81085"
-             x="47.141396"
-             height="398.55582"
-             width="638.86334"
-             id="rect26410" /></flowRegion><flowPara
-           style="font-size:10px;font-family:Verdana"
-           id="flowPara26444">Leader of New Orleans .NET Usergroup. Frequent participant in Virtual Alt.Net development community. Participant in New Orleans Ruby and general programming usergroups. Presenter on C# and softman craftsmanship concepts. Committer to CastleContrib OSS project. Co-founder Resultsoft LLC (now defunct). Presented at the 2006 AAAI Conference on Human-Robot Interactions. Research Stipend for Graduate School. Awarded a Jiu-Jitsu blue belt by Rodrigo Gracie. </flowPara></flowRoot>    </g>
     <g
        id="g2741"
        transform="translate(-8.351921,-4)">
@@ -421,14 +323,109 @@
                id="flowSpan26632">  Email: gmauer@gmail.com  </flowSpan></flowPara></flowRoot>      </g>
     </g>
     <g
-       id="g3379">
+       id="g3753">
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         id="path23138"
+         d="M 35.929839,331.32822 C 35.929839,327.1735 35.929839,327.1735 40.41091,327.1735 L 130.48174,327.1735 C 134.98507,327.1735 134.98507,327.1735 134.80118,331.53081 L 134.8925,343.79238 C 134.8925,347.94709 134.82787,347.94709 139.39501,347.94709 L 697.70638,347.94709 C 702.2089,347.94709 702.2089,347.94709 702.2089,352.10181 L 697.79896,655.39614 C 697.79896,659.55086 697.79896,659.55086 693.29644,659.55086 L 40.43235,659.55086 C 35.872872,659.55086 35.929839,659.55086 35.929839,655.39614 C 35.929839,583.50145 35.929839,335.48294 35.929839,331.32822 z"
+         style="fill:#e1e1e1;fill-opacity:1;stroke:#a37575;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(1.006162,0,0,1,-1.9472721,-44.941058)"
+         id="flowRoot23146"
+         xml:space="preserve"><flowRegion
+           id="flowRegion23148"><rect
+             y="403.81085"
+             x="47.141396"
+             height="398.55582"
+             width="638.86334"
+             id="rect23150" /></flowRegion><flowPara
+           id="flowPara23160"
+           style="font-size:10px;font-family:Verdana"><flowSpan
+   id="flowSpan23265"
+   style="font-size:10px;font-weight:bold">Lead Software Developer / Systems Architect</flowSpan> (August 2007 – Present)</flowPara><flowPara
+           style="font-size:10px;font-style:italic;font-family:Verdana"
+           id="flowPara23218">Westway Holdings (www.westway.com), New Orleans LA</flowPara><flowPara
+           style="font-size:10px;font-family:Verdana"
+           id="flowPara23220">Designed and developed applications in ASP.NET and WinForms for a large multinational corporation.  Refactored legacy code to be more compliant with principles of loose-coupling and separation of concerns.  Built relationships with and managed an outsourced team using concepts adopted from Agile.  Instituted previously lacking source control, issue tracking, and test driven development policies.  Software development duties spanned all stages of the software lifecycle: gathering of requirements, discussions with domain experts, system architecture, iteration planning, managment of developers, implementation, testing, quality assurance, administration, and the gathering and assessment of feedback.  Duties also included database administration, dealing with clients, and management of a single intern.  </flowPara><flowPara
+           id="flowPara23267"
+           style="font-size:4px;font-family:Verdana">   </flowPara><flowPara
+           id="flowPara23269"
+           style="font-size:10px;font-family:Verdana"><flowSpan
+   id="flowSpan23271"
+   style="font-size:10px;font-weight:bold">Freelance Web Developer</flowSpan> (January 2007 – Present)</flowPara><flowPara
+           id="flowPara23273"
+           style="font-size:10px;font-family:Verdana">Consulted customers on requirements and system design.  Built software on PHP/MySQL and .NET/SQL Server platforms.  Was instrumental in the timely launch of an Account Planning Facilitator used by 17,000 sales-people worldwide.  Created a simple CMS used by http://armante.com/. </flowPara><flowPara
+           id="flowPara23275"
+           style="font-size:4px;font-family:Verdana">  </flowPara><flowPara
+           id="flowPara23277"
+           style="font-size:10px;font-family:Verdana"><flowSpan
+   id="flowSpan23279"
+   style="font-size:10px;font-weight:bold">Web Application Developer </flowSpan>(January 2006 – May 2007)</flowPara><flowPara
+           id="flowPara23281"
+           style="font-size:10px;font-style:italic;font-family:Verdana">Mudbug Media (www.mudbugmedia.com), New Orleans LA</flowPara><flowPara
+           id="flowPara23295"
+           style="font-size:10px;font-family:Verdana">Developed web applications through a daily use of PHP and ASP.  This was typically integrated with Oracle or MySQL.  Responsibilities included full-blown site and database design, documentation, and some light graphic design.  Projects were typically done solo or in small teams and ranged the full software development lifecycle. </flowPara><flowPara
+           id="flowPara23289"
+           style="font-size:7.75px;font-family:Verdana">  </flowPara><flowPara
+           id="flowPara26262"
+           style="font-size:10px;font-family:Verdana"><flowSpan
+   id="flowSpan26264"
+   style="font-size:10px;font-weight:bold">Research Assistant in Image Processing and Analysis</flowSpan> (September 04 – September 05)</flowPara><flowPara
+           id="flowPara23291"
+           style="font-size:10px;font-style:italic;font-family:Verdana">Advanced Missile Defense Research Group, Tulane University</flowPara><flowPara
+           id="flowPara23293"
+           style="font-size:10px;font-family:Verdana">Contributed to all phases of a project for the automation of land surveying through the use of LIDAR (Laser Imaging Detection and Ranging) and other publicly available data.</flowPara><flowPara
+           style="font-size:10px;font-family:Verdana"
+           id="flowPara23222" /><flowPara
+           style="font-size:10px;font-family:Verdana"
+           id="flowPara23224" /><flowPara
+           style="font-size:10px;font-family:Verdana"
+           id="flowPara23226" /><flowPara
+           style="font-size:10px;font-family:Verdana"
+           id="flowPara23228" /><flowPara
+           style="font-size:1px;font-family:Verdana"
+           id="flowPara23230" /><flowPara
+           style="font-size:1px;font-family:Verdana"
+           id="flowPara23232" /><flowPara
+           style="font-size:1px;font-family:Verdana"
+           id="flowPara23234" /><flowPara
+           style="font-size:1px;font-family:Verdana"
+           id="flowPara23236" /><flowPara
+           style="font-size:1px;font-family:Verdana"
+           id="flowPara23238" /></flowRoot>      <text
+         transform="scale(1.0026892,0.997318)"
+         id="text23140"
+         y="350.16083"
+         x="86.626015"
+         style="font-size:28.0752964px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16.04302788px;text-align:center;text-anchor:middle"
+           y="350.16083"
+           x="86.626015"
+           id="tspan23142"
+           sodipodi:role="line">Experience</tspan></text>
+    </g>
+    <g
+       id="g3809">
+      <text
+         transform="scale(1.0040797,0.9959369)"
+         id="text22870"
+         y="224.88039"
+         x="82.516235"
+         style="font-size:28.11423111px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:18.07343483px;text-align:center;text-anchor:middle"
+           y="224.88039"
+           x="82.516235"
+           id="tspan22872"
+           sodipodi:role="line">Skills</tspan></text>
       <path
          sodipodi:nodetypes="ccccccccccccc"
          id="path22868"
-         d="M 40.310697,212.97075 C 40.310697,208.06113 40.310697,208.06113 44.786594,208.06113 L 134.75424,208.06113 C 139.25155,208.06113 139.25155,208.06113 139.25155,212.97075 L 139.25155,227.69962 C 139.25155,232.60924 139.25155,232.60924 143.74886,232.60924 L 701.41478,232.60924 C 705.9128,232.60924 705.9128,232.60924 705.9128,237.51888 C 705.9128,232.60924 705.9128,306.25361 705.9128,306.25361 C 705.9128,311.16323 705.9128,311.16323 701.41549,311.16323 L 44.786594,311.16323 C 40.310697,311.16323 40.310697,311.16323 40.310697,306.25361 C 40.310697,265.70943 40.310697,212.81874 40.310697,212.97075 z"
-         style="fill:#e1e1e1;fill-opacity:1;stroke:#a37575;stroke-width:9.39789486;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="M 35.970166,212.96315 C 35.970166,208.05273 35.970166,208.05273 40.452648,208.05273 L 130.55265,208.05273 C 135.05656,208.05273 135.05656,208.05273 135.05656,212.96315 L 135.05656,227.69442 C 135.05656,232.60484 135.05656,232.60484 139.56049,232.60484 L 698.04678,232.60484 C 702.55143,232.60484 702.55143,232.60484 702.55143,237.51528 C 702.55143,232.60484 702.55143,306.26121 702.55143,306.26121 C 702.55143,311.17163 702.55143,311.17163 698.0475,311.17163 L 40.452648,311.17163 C 35.970166,311.17163 35.970166,311.17163 35.970166,306.26121 C 35.970166,265.71043 35.970166,212.81111 35.970166,212.96315 z"
+         style="fill:#e1e1e1;fill-opacity:1;stroke:#a37575;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
-         transform="translate(100.30146,-162.27797)"
+         transform="matrix(1.0053856,0,0,1,97.014564,-162.27797)"
          id="flowRoot22874"
          xml:space="preserve"><flowRegion
            id="flowRegion22876"><rect
@@ -447,7 +444,7 @@
            style="font-size:10px;font-family:Verdana">SOLID, TDD, BDD, DDD, Agile, OOD, Project Managment, Technical Presentation</flowPara><flowPara
            id="flowPara22892"
            style="font-size:10px;font-family:Verdana" /></flowRoot>      <flowRoot
-         transform="matrix(1.0668579,0,0,1.0668579,3.5165231,-182.45236)"
+         transform="matrix(1.0726036,0,0,1.0668579,-0.2916181,-182.45236)"
          id="flowRoot22924"
          xml:space="preserve"><flowRegion
            id="flowRegion22926"><rect
@@ -466,27 +463,91 @@
            style="font-size:10px;font-style:italic" /><flowPara
            style="font-size:10px;font-style:italic"
            id="flowPara22938">Buzzwords:</flowPara></flowRoot>      <text
-         id="text23140"
-         y="349.22171"
-         x="90.200264"
-         style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           style="font-size:16px;text-align:center;text-anchor:middle"
-           y="349.22171"
-           x="90.200264"
-           id="tspan23142"
-           sodipodi:role="line">Experience</tspan></text>
-      <text
+         transform="scale(1.0026892,0.997318)"
          id="text3338"
-         y="235.11099"
-         x="84.275101"
-         style="font-size:36.68258667px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         y="235.74326"
+         x="80.684914"
+         style="font-size:36.78123474px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
          xml:space="preserve"><tspan
-           style="font-size:20.96147728px;text-align:center;text-anchor:middle"
-           y="235.11099"
-           x="84.275101"
+           style="font-size:21.01784706px;text-align:center;text-anchor:middle"
+           y="235.74326"
+           x="80.684914"
            id="tspan3340"
            sodipodi:role="line">Skills</tspan></text>
     </g>
+    <g
+       id="g3697">
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         id="path26400"
+         d="M 36.395017,682.97458 C 36.326919,674.5951 36.274701,674.82133 40.789488,674.56649 L 130.75428,674.74278 C 135.26219,674.74278 135.24097,674.7825 135.24097,683.10227 L 135.46112,686.19573 C 135.46112,694.43358 135.44069,694.62913 140.03135,694.62913 L 697.41175,694.58885 C 702.01126,694.58885 701.94756,694.73433 701.94756,702.97837 L 701.54924,792.18955 C 701.54924,800.59761 701.54924,800.59761 697.05433,800.59761 L 40.797517,800.59761 C 36.214621,800.59761 36.302607,800.59761 36.302607,792.18955 C 36.302607,792.18955 36.447236,691.15649 36.395017,682.97458 z"
+         style="fill:#e1e1e1;fill-opacity:1;stroke:#a37575;stroke-width:9.99065971;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text26402"
+         y="694.19922"
+         x="84.914558"
+         style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:18px;text-align:center;text-anchor:middle"
+           y="694.19922"
+           x="84.914558"
+           id="tspan26404"
+           sodipodi:role="line">Activities</tspan></text>
+      <flowRoot
+         transform="translate(-3.1663774,298.84251)"
+         id="flowRoot26406"
+         xml:space="preserve"><flowRegion
+           id="flowRegion26408"><rect
+             y="403.81085"
+             x="47.141396"
+             height="398.55582"
+             width="638.86334"
+             id="rect26410" /></flowRegion><flowPara
+           style="font-size:10px;font-family:Verdana"
+           id="flowPara26444"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3668">Leader of New Orleans .NET Usergroup:</flowSpan> In charge of recruitment, speaker selection, organization, advertising, etc.</flowPara><flowPara
+           id="flowPara3489"
+           style="font-size:10px;font-family:Verdana"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3670">Presenter on C# and softman craftsmanship concepts:</flowSpan> Presented on Lambdas, TDD, DDD, and Dependency Injection.</flowPara><flowPara
+           id="flowPara3493"
+           style="font-size:10px;font-family:Verdana"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3672">Participant in local and virtual tech community: </flowSpan>gnocode, RubyBayou, Virtual Alt.Net, Net-Squared New Orleans.  </flowPara><flowPara
+           id="flowPara3505"
+           style="font-size:10px;font-family:Verdana"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3674">Committer to Open Source Projects: </flowSpan>CastleContrib (OptionalPropertyInjectionFacility). log4netContrib (GrowlAppender).   </flowPara><flowPara
+           style="font-size:10px;font-family:Verdana"
+           id="flowPara3658">    Author of GIM.Quantities OSS project for an extensible library for handling quanties in .NET.</flowPara><flowPara
+           id="flowPara3517"
+           style="font-size:4px;font-family:Verdana">  </flowPara><flowPara
+           id="flowPara3501"
+           style="font-size:10px;font-family:Verdana"><flowSpan
+   id="flowSpan3507"
+   style="font-weight:bold"> Other: </flowSpan>Co-founder Resultsoft LLC (now defunct); Presented at the 2006 AAAI Conference on Human-Robot Interaction;</flowPara><flowPara
+           style="font-size:10px;font-family:Verdana"
+           id="flowPara3660">    Research Stipend for Graduate School; Tulane Distinguished Scholar; Awarded a Jiu-Jitsu blue belt by Rodrigo Gracie. </flowPara></flowRoot>      <text
+         id="text3511"
+         y="730.58752"
+         x="359.51941"
+         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="730.58752"
+           x="359.51941"
+           id="tspan3513"
+           sodipodi:role="line">t</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="67"
+       y="711.36218"
+       id="text3650"><tspan
+         sodipodi:role="line"
+         id="tspan3652"
+         x="67"
+         y="711.36218" /></text>
   </g>
 </svg>
