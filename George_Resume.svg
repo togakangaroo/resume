@@ -41,8 +41,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="370.5"
-     inkscape:cy="630.5"
+     inkscape:cx="-109.94714"
+     inkscape:cy="619.5"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -323,7 +323,7 @@
                id="flowSpan26632">  Email: gmauer@gmail.com  </flowSpan></flowPara></flowRoot>      </g>
     </g>
     <g
-       id="g3753">
+       id="g3885">
       <path
          sodipodi:nodetypes="ccccccccccccc"
          id="path23138"
@@ -399,7 +399,7 @@
          x="86.626015"
          style="font-size:28.0752964px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
          xml:space="preserve"><tspan
-           style="font-size:16.04302788px;text-align:center;text-anchor:middle"
+           style="font-size:16.04302788000000000px;text-align:center;text-anchor:middle;font-weight:bold"
            y="350.16083"
            x="86.626015"
            id="tspan23142"
@@ -476,7 +476,7 @@
            sodipodi:role="line">Skills</tspan></text>
     </g>
     <g
-       id="g3697">
+       id="g3985">
       <path
          sodipodi:nodetypes="ccccccccccccc"
          id="path26400"
@@ -484,12 +484,12 @@
          style="fill:#e1e1e1;fill-opacity:1;stroke:#a37575;stroke-width:9.99065971;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          id="text26402"
-         y="694.19922"
+         y="698.19922"
          x="84.914558"
          style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
          xml:space="preserve"><tspan
            style="font-size:18px;text-align:center;text-anchor:middle"
-           y="694.19922"
+           y="698.19922"
            x="84.914558"
            id="tspan26404"
            sodipodi:role="line">Activities</tspan></text>
@@ -526,7 +526,7 @@
            id="flowPara3501"
            style="font-size:10px;font-family:Verdana"><flowSpan
    id="flowSpan3507"
-   style="font-weight:bold"> Other: </flowSpan>Co-founder Resultsoft LLC (now defunct); Presented at the 2006 AAAI Conference on Human-Robot Interaction;</flowPara><flowPara
+   style="font-weight:bold">Other: </flowSpan>Co-founder Resultsoft LLC (now defunct); Presented at the 2006 AAAI Conference on Human-Robot Interaction;</flowPara><flowPara
            style="font-size:10px;font-family:Verdana"
            id="flowPara3660">    Research Stipend for Graduate School; Tulane Distinguished Scholar; Awarded a Jiu-Jitsu blue belt by Rodrigo Gracie. </flowPara></flowRoot>      <text
          id="text3511"
